@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — İdarəetmə paneli",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — İdarəetmə paneli",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Xəbərdarlıq! Saxlamadığınız dəyişikliklər var",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Jurnal",
+    "message": "uBlockO — Jurnal",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Resurslar",
+    "message": "uBlockO — Resurslar",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Klikləmə: Bu sayt üçün uBlock₀-u fəallaşdır/sıradan çıxart.\n\nCtrl+klikləmə: Yalnız bu səhifə üçün uBlock₀-u sıradan çıxart.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Klikləmə: Bu sayt üçün uBlockO-u fəallaşdır/sıradan çıxart.\n\nCtrl+klikləmə: Yalnız bu səhifə üçün uBlockO-u sıradan çıxart.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Bu sayt üçün uBlock₀-u sıradan çıxartmaq üçün klikləyin.\n\nYalnız bu səhifə üçün uBlock₀-u sıradan çıxartmaq üçün Ctrl+klikləyin.",
+    "message": "Bu sayt üçün uBlockO-u sıradan çıxartmaq üçün klikləyin.\n\nYalnız bu səhifə üçün uBlockO-u sıradan çıxartmaq üçün Ctrl+klikləyin.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Bu saytda uBlock₀-u fəallaşdırmaq üçün klikləyin.",
+    "message": "Bu saytda uBlockO-u fəallaşdırmaq üçün klikləyin.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Bütün parametrləriniz {{time}} tarixində yadda saxlanılmış məlumatlarla əvəz olunacaq və uBlock₀ yenidən başladılacaq.\n\nBütün cari parametrlər ehtiyat nüsxəsindəki məlumatlarla əvəz olunsun?",
+    "message": "Bütün parametrləriniz {{time}} tarixində yadda saxlanılmış məlumatlarla əvəz olunacaq və uBlockO yenidən başladılacaq.\n\nBütün cari parametrlər ehtiyat nüsxəsindəki məlumatlarla əvəz olunsun?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Bütün parametrləriniz silinəcək və uBlock₀ yenidən başladılacaq.\n\nuBlock₀ standart parametrlərə qaytarılsın?",
+    "message": "Bütün parametrləriniz silinəcək və uBlockO yenidən başladılacaq.\n\nuBlockO standart parametrlərə qaytarılsın?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: Aşağıdakı URL ünvanı fərdi filtr siyahılarınıza əlavə edilsin?\n\nAdı: \"{{title}}\"\nURL ünvanı: {{url}}",
+    "message": "uBlockO: Aşağıdakı URL ünvanı fərdi filtr siyahılarınıza əlavə edilsin?\n\nAdı: \"{{title}}\"\nURL ünvanı: {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "işləmir",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin bu səhifənin yüklənməsini əngəllədi:",

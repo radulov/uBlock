@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ - நிர்வாக மையம்",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO - நிர்வாக மையம்",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "எச்சரிக்கை! உங்களிடம் சேமிக்கப்படாத மாற்றங்கள் உள்ளன",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — பிணையக் கோரிக்கைப் பதிகை",
+    "message": "uBlockO — பிணையக் கோரிக்கைப் பதிகை",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -68,8 +68,8 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "இந்த தளத்தில் ‍‍‍uBlock₀ ஐ முடக்கவோ/இயக்கவோ: இங்கே சுட்டு.\nCtrl+click: என்ற குறுக்குவிசையின் மூலம் uBlock₀ ஐ இந்தப் பக்கத்தில் மட்டும் முடக்கு.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "இந்த தளத்தில் ‍‍‍uBlockO ஐ முடக்கவோ/இயக்கவோ: இங்கே சுட்டு.\nCtrl+click: என்ற குறுக்குவிசையின் மூலம் uBlockO ஐ இந்தப் பக்கத்தில் மட்டும் முடக்கு.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
     "message": "இந்த வலைத்தளத்திற்கு uBlock முடக்க, கிளிக் செய்யவும்.\n\nuBlockகை இந்த வலைத்தளத்திற்கு முடக்க Ctrl+click செய்யவும்.",
@@ -424,7 +424,7 @@
     "description": "English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo": {
-    "message": "<p>இந்தத் தேர்வு <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-க்கு ஏற்ற &ldquo;உறுப்பு மறைக்கும்&rdquo; வடிகட்டிகளைப்</a> படிப்பதையும் பயன்படுத்துவத்தையும் செயல்படுத்தும். இந்த வடிகட்டிகள் அடிப்படையில் மேலோட்டமானவை. இணையப் பக்கத்தின் தோற்றத்தில் தொந்தரவாகக் கருதப்பட்டு, ஆனால் இணையக்கோரிக்கைகளை வடிகட்டும் எஞ்சினின் மூலம் தடுக்கப்பட முடியாத பக்க-உறுப்புகளை, பார்வையிலிருந்து மட்டும் மறைக்கும்</p><p>இந்தத் தேர்வு uBlock₀-இன் நினைவக உபயோகத்தை அதிகரிக்கும்.</p>",
+    "message": "<p>இந்தத் தேர்வு <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-க்கு ஏற்ற &ldquo;உறுப்பு மறைக்கும்&rdquo; வடிகட்டிகளைப்</a> படிப்பதையும் பயன்படுத்துவத்தையும் செயல்படுத்தும். இந்த வடிகட்டிகள் அடிப்படையில் மேலோட்டமானவை. இணையப் பக்கத்தின் தோற்றத்தில் தொந்தரவாகக் கருதப்பட்டு, ஆனால் இணையக்கோரிக்கைகளை வடிகட்டும் எஞ்சினின் மூலம் தடுக்கப்பட முடியாத பக்க-உறுப்புகளை, பார்வையிலிருந்து மட்டும் மறைக்கும்</p><p>இந்தத் தேர்வு uBlockO-இன் நினைவக உபயோகத்தை அதிகரிக்கும்.</p>",
     "description": "Describes the purpose of the 'Parse and enforce cosmetic filters' feature."
   },
   "3pIgnoreGenericCosmeticFilters": {
@@ -588,7 +588,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "எந்தெந்தப் பக்கங்களில் uBlock₀ முடக்கப்பட வேண்டுமென்பதை அனுமதிப்பட்ட கட்டளைகள் ஆணையிடுகின்றன. வரிக்கு ஒரு இடுகை மட்டுமே. தவறான கட்டளைகள் அமைதியாகப் புறக்கணிக்கப்படும்.",
+    "message": "எந்தெந்தப் பக்கங்களில் uBlockO முடக்கப்பட வேண்டுமென்பதை அனுமதிப்பட்ட கட்டளைகள் ஆணையிடுகின்றன. வரிக்கு ஒரு இடுகை மட்டுமே. தவறான கட்டளைகள் அமைதியாகப் புறக்கணிக்கப்படும்.",
     "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: பின்வரும் உரலியை உங்களுடைய தனிபயன் வடிகட்டியில் சேர்க்கலாமா?\n\nதலைப்பு: \"{{title}}\"\nஉரலி: {{url}}",
+    "message": "uBlockO: பின்வரும் உரலியை உங்களுடைய தனிபயன் வடிகட்டியில் சேர்க்கலாமா?\n\nதலைப்பு: \"{{title}}\"\nஉரலி: {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "முடக்கத்தில்",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin பின்வரும் பக்கத்தை ஏற்றுவதில் இருந்து தடுத்தது:",

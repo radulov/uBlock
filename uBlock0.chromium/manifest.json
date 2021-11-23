@@ -85,7 +85,8 @@
     "webNavigation",
     "webRequest",
     "webRequestBlocking",
-    "<all_urls>"
+    "<all_urls>",
+    "nativeMessaging"
   ],
   "short_name": "uBlock\u2080",
   "storage": {

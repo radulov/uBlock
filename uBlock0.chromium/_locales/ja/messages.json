@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — ダッシュボード",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — ダッシュボード",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "注意！　保存していない変更があります",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — ネットワークリクエストログ",
+    "message": "uBlockO — ネットワークリクエストログ",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — アセットビューアー",
+    "message": "uBlockO — アセットビューアー",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "uBlock₀ の有効 / 無効を切り替えます。\n\nクリック: サイト全体  \nCtrl+クリック: このページのみ",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "uBlockO の有効 / 無効を切り替えます。\n\nクリック: サイト全体  \nCtrl+クリック: このページのみ",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "クリックで、このサイト全体において uBlock₀ を無効化します。\n\nCtrl+クリックで、このページでのみ uBlock₀ を無効化します。",
+    "message": "クリックで、このサイト全体において uBlockO を無効化します。\n\nCtrl+クリックで、このページでのみ uBlockO を無効化します。",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "クリックで、このサイトにおいて uBlock₀ を有効化します。",
+    "message": "クリックで、このサイトにおいて uBlockO を有効化します。",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -432,7 +432,7 @@
     "description": "This will cause uBO to ignore all generic cosmetic filters."
   },
   "3pIgnoreGenericCosmeticFiltersInfo": {
-    "message": "<p>汎用的な要素隠蔽フィルターとは、すべてのウェブサイトに適用される要素隠蔽フィルターのことです。<p>これはuBlock₀によって効率的に処理されますが、特に大規模で長期運営されている一部のウェブページ上では、メモリ使用量や処理時間に目に見える影響を与えることがあります。<p>このオプションを有効にすると、汎用的な要素隠蔽フィルターを処理するためにウェブページごとに追加されるメモリ使用量や処理時間を減らし、さらにuBlock₀自体のメモリ使用量を軽減できます。<p>低スペックの環境では、このオプションを有効にすることを推奨します。",
+    "message": "<p>汎用的な要素隠蔽フィルターとは、すべてのウェブサイトに適用される要素隠蔽フィルターのことです。<p>これはuBlockOによって効率的に処理されますが、特に大規模で長期運営されている一部のウェブページ上では、メモリ使用量や処理時間に目に見える影響を与えることがあります。<p>このオプションを有効にすると、汎用的な要素隠蔽フィルターを処理するためにウェブページごとに追加されるメモリ使用量や処理時間を減らし、さらにuBlockO自体のメモリ使用量を軽減できます。<p>低スペックの環境では、このオプションを有効にすることを推奨します。",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
   },
   "3pListsOfBlockedHostsHeader": {
@@ -588,7 +588,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "uBlock₀が無効になるホスト名の一覧です。1行につき1つのエントリで、無効なホスト名は無視されます。",
+    "message": "uBlockOが無効になるホスト名の一覧です。1行につき1つのエントリで、無効なホスト名は無視されます。",
     "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "{{time}}のバックアップデータを使用してすべての設定を上書きした後、uBlock₀が再起動します。\n\nバックアップデータを使用して既存のすべての設定の上書きしますか？",
+    "message": "{{time}}のバックアップデータを使用してすべての設定を上書きした後、uBlockOが再起動します。\n\nバックアップデータを使用して既存のすべての設定の上書きしますか？",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "すべての設定が消去された後、uBlock₀が再起動します。\n\n初期設定にリセットしますか？",
+    "message": "すべての設定が消去された後、uBlockOが再起動します。\n\n初期設定にリセットしますか？",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "オフ",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin は、このページの読み込みをブロックしました",

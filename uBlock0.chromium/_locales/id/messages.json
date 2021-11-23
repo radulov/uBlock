@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Dasbor",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Dasbor",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Peringatan! Anda memiliki perubahan yang belum disimpan",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Pencatat Log",
+    "message": "uBlockO — Pencatat Log",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Penampil aset",
+    "message": "uBlockO — Penampil aset",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Klik: nonaktif/aktifkan uBlock₀ untuk situs ini.\n\nCtrl+klik: nonaktifkan uBlock₀ hanya di laman ini.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Klik: nonaktif/aktifkan uBlockO untuk situs ini.\n\nCtrl+klik: nonaktifkan uBlockO hanya di laman ini.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Klik untuk menonaktifkan uBlock₀ pada situs ini.\n\nCtrl+klik untuk menonaktifkan uBlock₀ hanya di laman ini.",
+    "message": "Klik untuk menonaktifkan uBlockO pada situs ini.\n\nCtrl+klik untuk menonaktifkan uBlockO hanya di laman ini.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Klik untuk mengaktifkan uBlock₀ pada situs ini.",
+    "message": "Klik untuk mengaktifkan uBlockO pada situs ini.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Semua pengaturan Anda akan ditimpa dengan data yang dicadangkan pada {{time}}, dan uBlock₀ akan memulai ulang.\n\nTimpa semua pengaturan yang ada dengan data cadangan?",
+    "message": "Semua pengaturan Anda akan ditimpa dengan data yang dicadangkan pada {{time}}, dan uBlockO akan memulai ulang.\n\nTimpa semua pengaturan yang ada dengan data cadangan?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Semua pengaturan Anda akan dihapus, dan uBlock₀ akan memulai ulang.\n\nKembalikan uBlock₀ ke pengaturan bawaan?",
+    "message": "Semua pengaturan Anda akan dihapus, dan uBlockO akan memulai ulang.\n\nKembalikan uBlockO ke pengaturan bawaan?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "mati",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin telah mencegah halaman berikut dimuat:",

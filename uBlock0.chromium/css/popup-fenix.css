@@ -21,7 +21,7 @@
     line-height: 20px;
     }
 :root body.loading {
-    opacity: 0;
+/*    opacity: 0;*/
     }
 a {
     color: var(--default-ink);

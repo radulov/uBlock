@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — ড্যাশবোর্ড",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — ড্যাশবোর্ড",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "সতর্কীকরণ! আপনার পরিবর্তনগুলো সংরক্ষণ করা হয়নি।",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ —  ঘটনাবলী",
+    "message": "uBlockO —  ঘটনাবলী",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ —  তথ্য নিরিক্ষক",
+    "message": "uBlockO —  তথ্য নিরিক্ষক",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,11 +68,11 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "ক্লিক: এই সাইটের জন্য uBlock₀ সক্রিয়/নিষ্ক্রিয় করুন\n\nCtrl+ক্লিক: শুধু এই পেজে uBlock₀ নিষ্ক্রিয় করুন",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "ক্লিক: এই সাইটের জন্য uBlockO সক্রিয়/নিষ্ক্রিয় করুন\n\nCtrl+ক্লিক: শুধু এই পেজে uBlockO নিষ্ক্রিয় করুন",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "এই সাইটে uBlock₀ নিষ্ক্রিয় করুন\n\nCtrl+ক্লিক: শুধু এই পেজে uBlock₀ নিষ্ক্রিয় করুন",
+    "message": "এই সাইটে uBlockO নিষ্ক্রিয় করুন\n\nCtrl+ক্লিক: শুধু এই পেজে uBlockO নিষ্ক্রিয় করুন",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
@@ -424,7 +424,7 @@
     "description": "English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo": {
-    "message": "<p>এই অপশনটি <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">অ্যাডব্লক-প্লাসের সামঞ্জস্যপূর্ণ &ldquo;উপাদান আড়াল করার&rdquo; ফিল্টারকে</a> সক্রিয় করবে। এই ফিল্টারগুলি মূলত প্রসাধনী, তাদের একটি ওয়েব পাতায় উপাদান আড়াল করতে প্রয়োজন হয় যাকে চাক্ষুষ উত্পাত বলিয়া গণ্য করা হয়, এবং যাদের নেট অনুরোধ ভিত্তিক ফিল্টারিং ইঞ্জিন দ্বারা অবরুদ্ধ করা যায় না।</p><p>এই বৈশিষ্ট্য সক্রিয় করলে uBlock₀-এর মেমরির পদচিহ্ন বৃদ্ধি পাবে।</p>",
+    "message": "<p>এই অপশনটি <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">অ্যাডব্লক-প্লাসের সামঞ্জস্যপূর্ণ &ldquo;উপাদান আড়াল করার&rdquo; ফিল্টারকে</a> সক্রিয় করবে। এই ফিল্টারগুলি মূলত প্রসাধনী, তাদের একটি ওয়েব পাতায় উপাদান আড়াল করতে প্রয়োজন হয় যাকে চাক্ষুষ উত্পাত বলিয়া গণ্য করা হয়, এবং যাদের নেট অনুরোধ ভিত্তিক ফিল্টারিং ইঞ্জিন দ্বারা অবরুদ্ধ করা যায় না।</p><p>এই বৈশিষ্ট্য সক্রিয় করলে uBlockO-এর মেমরির পদচিহ্ন বৃদ্ধি পাবে।</p>",
     "description": "Describes the purpose of the 'Parse and enforce cosmetic filters' feature."
   },
   "3pIgnoreGenericCosmeticFilters": {
@@ -432,7 +432,7 @@
     "description": "This will cause uBO to ignore all generic cosmetic filters."
   },
   "3pIgnoreGenericCosmeticFiltersInfo": {
-    "message": "<p>জেনেরিক প্রসাধনী ছাঁকনি হচ্ছে সেইসব প্রসাধনী ছাঁকনি যা সব ওয়েবসাইটে প্রয়োগের জন্য অভিপ্রেত।<p>যদিও তা uBlock₀ দ্বারা দক্ষতার সঙ্গে পরিচালনা করে, কিন্তু জেনেরিক প্রসাধন ফিল্টার এখনও কিছু ওয়েব পাতার পরিমাপযোগ্য মেমরি ও CPU-র অত্যাধিক চাপ সৃষ্টিতে অবদান রাখতে পারে, বিশেষ করে বড় এবং দীর্ঘ একটিতে।<p>এই অপশন সক্রিয় করলে জেনেরিক প্রসাধনী ছাঁকনি পরিচালিত হবে যা ওয়েব পাতার পরিমাপযোগ্য মেমরি ও CPU-র অত্যাধিক চাপ সৃষ্টি দূর করবে এবং uBlock₀ নিজেই মেমরি পদাঙ্ক অর্ধ করবে।<p>এটা কম শক্তিশালী ডিভাইসে এই অপশনটি সক্রিয় করার জন্য সুপারিশ করা হচ্ছে।",
+    "message": "<p>জেনেরিক প্রসাধনী ছাঁকনি হচ্ছে সেইসব প্রসাধনী ছাঁকনি যা সব ওয়েবসাইটে প্রয়োগের জন্য অভিপ্রেত।<p>যদিও তা uBlockO দ্বারা দক্ষতার সঙ্গে পরিচালনা করে, কিন্তু জেনেরিক প্রসাধন ফিল্টার এখনও কিছু ওয়েব পাতার পরিমাপযোগ্য মেমরি ও CPU-র অত্যাধিক চাপ সৃষ্টিতে অবদান রাখতে পারে, বিশেষ করে বড় এবং দীর্ঘ একটিতে।<p>এই অপশন সক্রিয় করলে জেনেরিক প্রসাধনী ছাঁকনি পরিচালিত হবে যা ওয়েব পাতার পরিমাপযোগ্য মেমরি ও CPU-র অত্যাধিক চাপ সৃষ্টি দূর করবে এবং uBlockO নিজেই মেমরি পদাঙ্ক অর্ধ করবে।<p>এটা কম শক্তিশালী ডিভাইসে এই অপশনটি সক্রিয় করার জন্য সুপারিশ করা হচ্ছে।",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
   },
   "3pListsOfBlockedHostsHeader": {
@@ -588,7 +588,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "আপনার হোস্টের তালিকা যাদের জন্য uBlock₀ নিষ্ক্রিয় করা হবে। লাইন প্রতি একটি ভুক্তি। অবৈধ হোস্ট নাম নিশব্দে উপেক্ষা করা হবে।",
+    "message": "আপনার হোস্টের তালিকা যাদের জন্য uBlockO নিষ্ক্রিয় করা হবে। লাইন প্রতি একটি ভুক্তি। অবৈধ হোস্ট নাম নিশব্দে উপেক্ষা করা হবে।",
     "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "{{time}}-এর ডেটা ব্যাকআপ ব্যবহার করে আপনার সেটিংস পুনঃলিখিত হবে, এবং uBlock₀ পুনরায় চালু হবে।\n\nডেটা ব্যাকআপ ব্যবহার করে সমস্ত বিদ্যমান সেটিংস পুনঃলিখবেন?",
+    "message": "{{time}}-এর ডেটা ব্যাকআপ ব্যবহার করে আপনার সেটিংস পুনঃলিখিত হবে, এবং uBlockO পুনরায় চালু হবে।\n\nডেটা ব্যাকআপ ব্যবহার করে সমস্ত বিদ্যমান সেটিংস পুনঃলিখবেন?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "আপনার সব সেটিংস বাতিল করা হবে, এবং uBlock₀ পুনরায় চালু হবে।\n\nইউব্লক₀ সেটিংস পুনঃস্থাপন করবেন?",
+    "message": "আপনার সব সেটিংস বাতিল করা হবে, এবং uBlockO পুনরায় চালু হবে।\n\nইউব্লক₀ সেটিংস পুনঃস্থাপন করবেন?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: আপনার নিজস্ব ফিল্টার তালিকায় নিম্নলিখিত URL যোগ করবেন?\n\nশিরোনাম: \"{{title}}\"\nURL: {{url}}",
+    "message": "uBlockO: আপনার নিজস্ব ফিল্টার তালিকায় নিম্নলিখিত URL যোগ করবেন?\n\nশিরোনাম: \"{{title}}\"\nURL: {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "বন্ধ",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uব্লক অরিজিন নিচের পৃষ্ঠা লোড করাকে প্রতিহত করেছে:",

@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Panelo",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Panelo",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Averto! Vi havas nekonservitajn ŝanĝojn",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Protokolilo",
+    "message": "uBlockO — Protokolilo",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Montrilo de rimedoj",
+    "message": "uBlockO — Montrilo de rimedoj",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Klako: malŝalti/ŝalti uBlock₀ por ĉi tiu retejo.\n\nCtrl+klako: malŝalti uBlock₀ nur en ĉi tiu paĝo.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Klako: malŝalti/ŝalti uBlockO por ĉi tiu retejo.\n\nCtrl+klako: malŝalti uBlockO nur en ĉi tiu paĝo.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Alklaku premante la stirklavo por malŝalti uBlock₀ nur en tiu ĉi retejo.",
+    "message": "Alklaku premante la stirklavo por malŝalti uBlockO nur en tiu ĉi retejo.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Alklaku por aktivigi uBlock₀ en tiu ĉi retejo.",
+    "message": "Alklaku por aktivigi uBlockO en tiu ĉi retejo.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -424,7 +424,7 @@
     "description": "English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo": {
-    "message": "<p>Ĉi tiu opcio ŝaltas la analizadon kaj eltrudadon de la <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-kongruaj &ldquo;elementokaŝadaj&rdquo; filtriloj</a>. Ĉi tiuj filtriloj estas nur ornama kaj servas por kaŝi elementojn en retpaĝoj kiuj estas opiniite vidaj ĝenaĵoj kaj ne blokeblaj de la reta peta filtrado.</p><p>Ŝalti ĉi tiun trajton pligrandigas la memoruzadon de uBlock₀.</p>",
+    "message": "<p>Ĉi tiu opcio ŝaltas la analizadon kaj eltrudadon de la <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-kongruaj &ldquo;elementokaŝadaj&rdquo; filtriloj</a>. Ĉi tiuj filtriloj estas nur ornama kaj servas por kaŝi elementojn en retpaĝoj kiuj estas opiniite vidaj ĝenaĵoj kaj ne blokeblaj de la reta peta filtrado.</p><p>Ŝalti ĉi tiun trajton pligrandigas la memoruzadon de uBlockO.</p>",
     "description": "Describes the purpose of the 'Parse and enforce cosmetic filters' feature."
   },
   "3pIgnoreGenericCosmeticFilters": {
@@ -588,7 +588,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "Via listo de gastignomoj por kiuj uBlock₀ estos malŝaltata. Unu gastignomo por ĉiu linio. Nevalidaj gastignomoj estos ignorataj silente.",
+    "message": "Via listo de gastignomoj por kiuj uBlockO estos malŝaltata. Unu gastignomo por ĉiu linio. Nevalidaj gastignomoj estos ignorataj silente.",
     "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Ĉiuj viaj agordoj estos anstataŭigitaj per via savkopio kreita je {{time}} kaj uBlock₀ restartigos.\n\nĈu vi volas anstataŭigi ĉiujn de viaj ekzistantaj agordoj uzita la savkopio?",
+    "message": "Ĉiuj viaj agordoj estos anstataŭigitaj per via savkopio kreita je {{time}} kaj uBlockO restartigos.\n\nĈu vi volas anstataŭigi ĉiujn de viaj ekzistantaj agordoj uzita la savkopio?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Ĉiuj viaj agordoj estos forigita kaj uBlock₀ restartigos.\n\nĈu vi volas reagordi uBlock₀ al la defaŭltaj agordoj?",
+    "message": "Ĉiuj viaj agordoj estos forigita kaj uBlockO restartigos.\n\nĈu vi volas reagordi uBlockO al la defaŭltaj agordoj?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: Ĉu vi volas aldoni la sekvan ligilon al viaj tajloritaj listoj de filtriloj?\n\nTitolo: \"{{title}}\"\nLigilo: {{url}}",
+    "message": "uBlockO: Ĉu vi volas aldoni la sekvan ligilon al viaj tajloritaj listoj de filtriloj?\n\nTitolo: \"{{title}}\"\nLigilo: {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,10 +1089,10 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "ne aktiva",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
-    "message": "uBlock₀ preventis la ŝarĝadon de la sekva paĝo:",
+    "message": "uBlockO preventis la ŝarĝadon de la sekva paĝo:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

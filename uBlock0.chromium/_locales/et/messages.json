@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Töölaud",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Töölaud",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Hoiatus! Sul on salvestamata muutusi",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Logija",
+    "message": "uBlockO — Logija",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — vara vaatur",
+    "message": "uBlockO — vara vaatur",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Klõps: keela/luba uBlock₀ sellel saidil.\n\nCtrl+klõps: keela uBlock₀ ainult sellel lehel.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Klõps: keela/luba uBlockO sellel saidil.\n\nCtrl+klõps: keela uBlockO ainult sellel lehel.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Klõpsa, et keelata uBlock₀ sellel saidil.\n\nCtrl+klõps, et keelata uBlock₀ ainult sellel lehel.",
+    "message": "Klõpsa, et keelata uBlockO sellel saidil.\n\nCtrl+klõps, et keelata uBlockO ainult sellel lehel.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Klõpsa, et lubada uBlock₀ sellel saidil.",
+    "message": "Klõpsa, et lubada uBlockO sellel saidil.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Kõik seaded kirjutatakse üle, kasutades varundust kuupäevast {{time}} ning uBlock₀ taaskäivitatakse.\n\nKirjutan üle kõik praegused seaded varundusandmetega?",
+    "message": "Kõik seaded kirjutatakse üle, kasutades varundust kuupäevast {{time}} ning uBlockO taaskäivitatakse.\n\nKirjutan üle kõik praegused seaded varundusandmetega?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Kõik seaded kustutatakse ning uBlock₀ taaskäivitatakse.\n\nTaastan uBlock₀'i algseadetele?",
+    "message": "Kõik seaded kustutatakse ning uBlockO taaskäivitatakse.\n\nTaastan uBlockO'i algseadetele?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "väljas",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin on keelanud järgneva lehe laadimise:",

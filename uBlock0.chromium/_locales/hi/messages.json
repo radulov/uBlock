@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — डैशबोर्ड",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — डैशबोर्ड",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Savdhan! Apke badlav abhi save nahi hue hai",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — लॉगर",
+    "message": "uBlockO — लॉगर",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — असेट व्यूअर",
+    "message": "uBlockO — असेट व्यूअर",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -69,14 +69,14 @@
   },
   "popupPowerSwitchInfo": {
     "message": "दबाए : uBlock को इस साईट में बंद/चालु करने के लिए।\n\nCtrl के साथ दबाए : uBlock को सिर्फ इस पेज में बंद करने के लिए।",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
     "message": "दबाए: uBlock को इस साईट पर बंद करने के लिए।\n\nCtrl के साथ दबाए: uBlock को केवल इस पेज पर बंद करने के लिए।",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "इस साईट में uBlock₀ को चालू करने के लिए क्लिक कीजिये।",
+    "message": "इस साईट में uBlockO को चालू करने के लिए क्लिक कीजिये।",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "{{समय}} पर बैकअप किए गए डेटा इस्तेमाल करके आपकी सभी सेटिंग्स को ओवरराइट कर दिया जाएगा, और uBlock₀ फिर से चालू किया जाएगा।\n\nबैकअप डेटा का इस्तेमाल करके सभी मौजूदा सेटिंग्स को ओवरराइट करें?",
+    "message": "{{समय}} पर बैकअप किए गए डेटा इस्तेमाल करके आपकी सभी सेटिंग्स को ओवरराइट कर दिया जाएगा, और uBlockO फिर से चालू किया जाएगा।\n\nबैकअप डेटा का इस्तेमाल करके सभी मौजूदा सेटिंग्स को ओवरराइट करें?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "आपकी सारी सेटिंग्स मिटा दी जाएंगी, और uBlock₀ को फिर से चालू किया जाएगा।\n\nuBlock₀ को फ़ैक्टरी सेटिंग्स पर रीसेट करें?",
+    "message": "आपकी सारी सेटिंग्स मिटा दी जाएंगी, और uBlockO को फिर से चालू किया जाएगा।\n\nuBlockO को फ़ैक्टरी सेटिंग्स पर रीसेट करें?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: इस यूआरएल को अपने कस्टम लिस्ट में डालें?\n\nTitle: \"{{title}}\"\nURL: {{url}}",
+    "message": "uBlockO: इस यूआरएल को अपने कस्टम लिस्ट में डालें?\n\nTitle: \"{{title}}\"\nURL: {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "बंद",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin ने इस पेज को लोड होने से रोक दिया हैं:",

@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Panel de control",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Panel de control",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "¡Atención! Tienes cambios sin guardar",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Registro de peticiones",
+    "message": "uBlockO — Registro de peticiones",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Visor de recursos",
+    "message": "uBlockO — Visor de recursos",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Clic: deshabilitar/habilitar uBlock₀ en este sitio.\n\nCtrl+clic: deshabilitar uBlock₀ solo en esta página.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Clic: deshabilitar/habilitar uBlockO en este sitio.\n\nCtrl+clic: deshabilitar uBlockO solo en esta página.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Clic para deshabilitar uBlock₀ en este sitio.\n\nCtrl+clic para deshabilitar uBlock₀ solo en esta página.",
+    "message": "Clic para deshabilitar uBlockO en este sitio.\n\nCtrl+clic para deshabilitar uBlockO solo en esta página.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Clic para habilitar uBlock₀ en este sitio.",
+    "message": "Clic para habilitar uBlockO en este sitio.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Toda la configuración se sobrescribirá utilizando datos respaldados en {{time}} y uBlock₀ se reiniciará.\n\n¿Sobrescribir toda la configuración existente utilizando los datos de respaldo?",
+    "message": "Toda la configuración se sobrescribirá utilizando datos respaldados en {{time}} y uBlockO se reiniciará.\n\n¿Sobrescribir toda la configuración existente utilizando los datos de respaldo?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Se borrará todas tus configuraciones y uBlock₀ se reiniciará.\n\n¿Restablecer uBlock₀ a la configuración predeterminada?",
+    "message": "Se borrará todas tus configuraciones y uBlockO se reiniciará.\n\n¿Restablecer uBlockO a la configuración predeterminada?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "deshabilitado",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin impidió la carga de la página:",

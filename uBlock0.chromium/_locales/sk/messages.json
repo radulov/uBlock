@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Ovládací panel",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Ovládací panel",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Upozornenie! Máte neuložené zmeny",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Zaznamenávač",
+    "message": "uBlockO — Zaznamenávač",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Zobrazenie zdrojov",
+    "message": "uBlockO — Zobrazenie zdrojov",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Kliknutie: zakázať/povoliť uBlock pre túto stránku.\n\nCtrl+kliknutie: zakázať uBlock₀ len pre túto stránku.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Kliknutie: zakázať/povoliť uBlock pre túto stránku.\n\nCtrl+kliknutie: zakázať uBlockO len pre túto stránku.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Kliknutím zakážete uBlock₀ pre túto stránku.\n\nCtrl+kliknutie zakáže uBlock₀ len pre túto stránku.",
+    "message": "Kliknutím zakážete uBlockO pre túto stránku.\n\nCtrl+kliknutie zakáže uBlockO len pre túto stránku.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Kliknutím povolíte uBlock₀ pre túto stránku.",
+    "message": "Kliknutím povolíte uBlockO pre túto stránku.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -424,7 +424,7 @@
     "description": "English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo": {
-    "message": "<p>Táto možnosť povoľuje analyzovanie a vynútenie <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">filtrov &ldquo;skrývajúcich prvky&rdquo; a kompatibilných s Adblock Plus</a>. Tieto filtre sú prevažne kozmetické. Skrývajú prvky webových stránok, ktoré sú vizuálne otravné a nemôžu byť zablokované filtrovaním sieťových požiadavkov.</p><p>Povolenie tejto funkcie zvyšujte nároky <i>uBlock₀</i> na pamäť.</p>",
+    "message": "<p>Táto možnosť povoľuje analyzovanie a vynútenie <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">filtrov &ldquo;skrývajúcich prvky&rdquo; a kompatibilných s Adblock Plus</a>. Tieto filtre sú prevažne kozmetické. Skrývajú prvky webových stránok, ktoré sú vizuálne otravné a nemôžu byť zablokované filtrovaním sieťových požiadavkov.</p><p>Povolenie tejto funkcie zvyšujte nároky <i>uBlockO</i> na pamäť.</p>",
     "description": "Describes the purpose of the 'Parse and enforce cosmetic filters' feature."
   },
   "3pIgnoreGenericCosmeticFilters": {
@@ -432,7 +432,7 @@
     "description": "This will cause uBO to ignore all generic cosmetic filters."
   },
   "3pIgnoreGenericCosmeticFiltersInfo": {
-    "message": "<p>Generické kozmetické filtre sú tie kozmetické filtre, ktoré sú určené na použitie na všetkých webových stránkach.<p>Aj keď ich uBlock₀ používa efektívne, generické kozmetické filtre môžu stále prispievať k zaťaženiu pamäte a procesora na niektorých webových stránkach, a to najmä na veľkých a zložitých.<p>Zapnutím tejto možnosti sa zníži zaťaženie pamäte a procesora v dôsledku použitia generických kozmetických filtrov pre webové stránky, a taktiež sa znížia nároky samotného rozšírenia uBlock₀ na pamäť.<p>Odporúča sa povoliť túto možnosť na menej výkonných zariadeniach.",
+    "message": "<p>Generické kozmetické filtre sú tie kozmetické filtre, ktoré sú určené na použitie na všetkých webových stránkach.<p>Aj keď ich uBlockO používa efektívne, generické kozmetické filtre môžu stále prispievať k zaťaženiu pamäte a procesora na niektorých webových stránkach, a to najmä na veľkých a zložitých.<p>Zapnutím tejto možnosti sa zníži zaťaženie pamäte a procesora v dôsledku použitia generických kozmetických filtrov pre webové stránky, a taktiež sa znížia nároky samotného rozšírenia uBlockO na pamäť.<p>Odporúča sa povoliť túto možnosť na menej výkonných zariadeniach.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
   },
   "3pListsOfBlockedHostsHeader": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: Pridať nasledujúcu URL do zoznamu vlastných filtrov?\n\nNázov: \"{{title}}\"\nURL: {{url}}",
+    "message": "uBlockO: Pridať nasledujúcu URL do zoznamu vlastných filtrov?\n\nNázov: \"{{title}}\"\nURL: {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "vypnutý",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin zabránil načítaniu nasledujúcej stránky:",

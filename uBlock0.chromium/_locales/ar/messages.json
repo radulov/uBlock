@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — لوحة التحكم",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — لوحة التحكم",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "تنبيه! لديك تغييرات لم تقم بحفظها",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "\"uBlock₀\" — سجل الإتصال بالشبكة",
+    "message": "\"uBlockO\" — سجل الإتصال بالشبكة",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — مُعاين العناصر",
+    "message": "uBlockO — مُعاين العناصر",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -69,14 +69,14 @@
   },
   "popupPowerSwitchInfo": {
     "message": "اضغط: لتعطيل/تشغيل ميكروبلوك لهذا الموقع.\n\nCtrl+click لتعطيل ميكروبلوك لهذه الصفحة فقط.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "اضغط لتعطيل uBlock₀ لهذا الموقع.\n\nCtrl+click لتعطيل uBlock₀ لهذه الصفحة فقط.",
+    "message": "اضغط لتعطيل uBlockO لهذا الموقع.\n\nCtrl+click لتعطيل uBlockO لهذه الصفحة فقط.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "اضغط لتفعيل uBlock₀ لهذا الموقع.",
+    "message": "اضغط لتفعيل uBlockO لهذا الموقع.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -588,7 +588,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "قائمة المواقع الوثوقة تحتوي على صفحات الويب التي يجب تعطيل uBlock₀ عند الدخول عليها. أدخل رابط واحد كل سطر. الروابط الغير صحيحه سوف يتم تجاهلها تلقائيًا.",
+    "message": "قائمة المواقع الوثوقة تحتوي على صفحات الويب التي يجب تعطيل uBlockO عند الدخول عليها. أدخل رابط واحد كل سطر. الروابط الغير صحيحه سوف يتم تجاهلها تلقائيًا.",
     "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "كل إعداداتك سوف يتم كتابتها بإستعمال البيانات التي تم نسخها إحتياطيا على {{time}}، و سيعيد uBlock₀ التشغيل.\n\nأعد كتابة كل الإعدادات الموجود بإستخدام البيانات التي تم نسخها إحتياطيا؟",
+    "message": "كل إعداداتك سوف يتم كتابتها بإستعمال البيانات التي تم نسخها إحتياطيا على {{time}}، و سيعيد uBlockO التشغيل.\n\nأعد كتابة كل الإعدادات الموجود بإستخدام البيانات التي تم نسخها إحتياطيا؟",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "كل إعداداتك سيتم إلغائها، و سيتم إعادة تشغيل \"uBlock₀\".\n\n\nإعادة ضبط \"uBlock₀\" على الإعدادات الأصلية؟",
+    "message": "كل إعداداتك سيتم إلغائها، و سيتم إعادة تشغيل \"uBlockO\".\n\n\nإعادة ضبط \"uBlockO\" على الإعدادات الأصلية؟",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1089,10 +1089,10 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "تعطيل",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
-    "message": "uBlock₀ منع الصفحة التالية من التحميل:",
+    "message": "uBlockO منع الصفحة التالية من التحميل:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

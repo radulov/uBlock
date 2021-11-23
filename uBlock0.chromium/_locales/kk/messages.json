@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Орнату",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Орнату",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Сізде сақталмаған параметрлер бар!",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Журналшы",
+    "message": "uBlockO — Журналшы",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Активтерді қарау",
+    "message": "uBlockO — Активтерді қарау",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Жай басу: осы сайт үшін uBlock₀ өшіріңіз / қосыңыз.\n\nCtrl+басу: тек осы бетте uBlock₀ өшіріңіз.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Жай басу: осы сайт үшін uBlockO өшіріңіз / қосыңыз.\n\nCtrl+басу: тек осы бетте uBlockO өшіріңіз.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Осы сайт үшін uBlock₀ өшіру үшін басыңыз\n\nТек осы бетте uBlock₀ өшіру үшін Ctrl+Басу.",
+    "message": "Осы сайт үшін uBlockO өшіру үшін басыңыз\n\nТек осы бетте uBlockO өшіру үшін Ctrl+Басу.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Осы сайт үшін uBlock₀ қосу үшін басыңыз.",
+    "message": "Осы сайт үшін uBlockO қосу үшін басыңыз.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -112,7 +112,7 @@
     "description": "For the new mobile-friendly popup design"
   },
   "popupTipDashboard": {
-    "message": "uBlock₀-ты орнату",
+    "message": "uBlockO-ты орнату",
     "description": "English: Click to open the dashboard"
   },
   "popupTipZapper": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Барлық параметрлер {{time}} күні сақтық көшірмесі жасалған деректерді пайдаланып жазылады және uBlock₀ қайта іске қосылады.\n\nСақтық көшірме жасалған деректерді пайдаланып, барлық қолданыстағы параметрлерді қайта жазу керек пе?",
+    "message": "Барлық параметрлер {{time}} күні сақтық көшірмесі жасалған деректерді пайдаланып жазылады және uBlockO қайта іске қосылады.\n\nСақтық көшірме жасалған деректерді пайдаланып, барлық қолданыстағы параметрлерді қайта жазу керек пе?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Барлық параметрлер жойылып, uBlock₀ қайта қосылады.\n\nUBlock₀ зауыттық параметрлерге қайтарылсын ба?",
+    "message": "Барлық параметрлер жойылып, uBlockO қайта қосылады.\n\nuBlockO зауыттық параметрлерге қайтарылсын ба?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "сөнд.",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin келесі парақтың жүктелуіне жол бермеді:",

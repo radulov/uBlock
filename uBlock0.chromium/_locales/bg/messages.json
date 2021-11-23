@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock₀",
+    "message": "uBlockO",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Табло",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Табло",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Внимание! Има незапазени промени",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Дневник",
+    "message": "uBlockO — Дневник",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Активи",
+    "message": "uBlockO — Активи",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Щракване: изключва/включва uBlock₀ за този сайт.\n\nCtrl + щракване: изключва uBlock₀ само за тази страница.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Щракване: изключва/включва uBlockO за този сайт.\n\nCtrl + щракване: изключва uBlockO само за тази страница.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Щракване: изключва uBlock₀ за този сайт.\n\nCtrl + щракване: изключва uBlock₀ само за тази страница.",
+    "message": "Щракване: изключва uBlockO за този сайт.\n\nCtrl + щракване: изключва uBlockO само за тази страница.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Щракнете, за да включите uBlock₀ за този сайт.",
+    "message": "Щракнете, за да включите uBlockO за този сайт.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Всички настройки ще бъдат презаписани с данни, архивирани на {{time}} и uBlock₀ ще се рестартира.\n\nПрезаписване на съществуващите настройки, използвайки архивираните данни?",
+    "message": "Всички настройки ще бъдат презаписани с данни, архивирани на {{time}} и uBlockO ще се рестартира.\n\nПрезаписване на съществуващите настройки, използвайки архивираните данни?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Всички настройки ще бъдат премахнати и uBlock₀ ще се рестартира.\n\nВръщане на uBlock₀ към стандартните настройки?",
+    "message": "Всички настройки ще бъдат премахнати и uBlockO ще се рестартира.\n\nВръщане на uBlockO към стандартните настройки?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "изключен",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin предотврати зареждането на страницата:",

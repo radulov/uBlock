@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock₀",
+    "message": "uBlockO",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Dashboard",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Dashboard",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Warnung! Nicht gespeicherte Änderungen",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Protokoll der Netzwerkanfragen",
+    "message": "uBlockO — Protokoll der Netzwerkanfragen",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Ressourcenbetrachter",
+    "message": "uBlockO — Ressourcenbetrachter",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Klick: uBlock₀ für diese Website aktivieren/deaktivieren.\n\nStrg+Klick: uBlock₀ nur für die aktuelle Seite deaktivieren.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Klick: uBlockO für diese Website aktivieren/deaktivieren.\n\nStrg+Klick: uBlockO nur für die aktuelle Seite deaktivieren.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Klicken, um uBlock₀ für diese Website zu deaktivieren. \n\nStrg+Klick, um uBlock₀ nur auf dieser Webseite zu deaktivieren.",
+    "message": "Klicken, um uBlockO für diese Website zu deaktivieren. \n\nStrg+Klick, um uBlockO nur auf dieser Webseite zu deaktivieren.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Klicken Sie hier, um uBlock₀ für diese Website zu aktivieren.",
+    "message": "Klicken Sie hier, um uBlockO für diese Website zu aktivieren.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Alle Einstellungen werden gelöscht und uBlock₀ wird neu gestartet.\n\nSoll uBlock₀ auf Werkseinstellungen zurückgesetzt werden?",
+    "message": "Alle Einstellungen werden gelöscht und uBlockO wird neu gestartet.\n\nSoll uBlockO auf Werkseinstellungen zurückgesetzt werden?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: Folgende Adresse Ihrer benutzerdefinierten Filterliste hinzufügen?\n\nTitel: »{{title}}«\nAdresse: {{url}}",
+    "message": "uBlockO: Folgende Adresse Ihrer benutzerdefinierten Filterliste hinzufügen?\n\nTitel: »{{title}}«\nAdresse: {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "aus",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin hat das Laden der folgenden Seite verhindert:",

@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Vezérlőpult",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Vezérlőpult",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Figyelem! Neked még vannak nem mentett változtatásaid",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Hálózati lekérések naplója",
+    "message": "uBlockO — Hálózati lekérések naplója",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ - Eszköznézet",
+    "message": "uBlockO - Eszköznézet",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Klikk: uBlock₀ tiltása/engedélyezése ezen a webhelyen.\n\nCtrl+klikk: csak a jelenlegi oldal tiltása/engedélyezése.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Klikk: uBlockO tiltása/engedélyezése ezen a webhelyen.\n\nCtrl+klikk: csak a jelenlegi oldal tiltása/engedélyezése.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Kattints a uBlock₀ letiltásához ezen a webhelyen.\n\nCtrl+kattintás a uBlock₀ letiltásához csak a jelenlegi oldalon.",
+    "message": "Kattints a uBlockO letiltásához ezen a webhelyen.\n\nCtrl+kattintás a uBlockO letiltásához csak a jelenlegi oldalon.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Kattints az uBlock₀ engedélyezéséhez ezen a webhelyen.",
+    "message": "Kattints az uBlockO engedélyezéséhez ezen a webhelyen.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -424,7 +424,7 @@
     "description": "English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo": {
-    "message": "<p>Ez a beállítás engedélyezi az <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-típusú &ldquo;elemelrejtő&rdquo; szűrőket</a>. Ezek kizárólag kozmetikai célokat szolgálnak; elrejtik egy webhely azon elemeit, amelyek vizuálisan zavaróak, de a hálózati lekérések alapján nem szűrhetők ki.</p><p>A beállítás engedélyezése megnöveli a <i>uBlock₀</i> memóriahasználatát.</p>",
+    "message": "<p>Ez a beállítás engedélyezi az <a href=\"https://adblockplus.org/en/faq_internal#elemhide\">Adblock Plus-típusú &ldquo;elemelrejtő&rdquo; szűrőket</a>. Ezek kizárólag kozmetikai célokat szolgálnak; elrejtik egy webhely azon elemeit, amelyek vizuálisan zavaróak, de a hálózati lekérések alapján nem szűrhetők ki.</p><p>A beállítás engedélyezése megnöveli a <i>uBlockO</i> memóriahasználatát.</p>",
     "description": "Describes the purpose of the 'Parse and enforce cosmetic filters' feature."
   },
   "3pIgnoreGenericCosmeticFilters": {
@@ -432,7 +432,7 @@
     "description": "This will cause uBO to ignore all generic cosmetic filters."
   },
   "3pIgnoreGenericCosmeticFiltersInfo": {
-    "message": "<p>Az általános kozmetikai szűrők azok a kozmetikai szűrők, amelyek minden weboldalra érvényesek.<p>Ugyan a uBlock₀ hatékonyan kezeli őket, az általános kozmetikai szűrők mégis mérhetően magasabb memória és CPU használatot eredményezhetnek néhány weboldalon, főleg nagy, és régóta futóak esetében.<p>Ennek az opciónak a bekapcsolása kiküszöböli az általános kozmetikai szűrők kezeléséből a weboldalakon adódó memória és CPU használat többletet, továbbá csökkenti a uBlock₀ által foglalt memóriát is.<p>Ajánlott bekapcsolni ezt az opciót a gyengébb eszközökön.",
+    "message": "<p>Az általános kozmetikai szűrők azok a kozmetikai szűrők, amelyek minden weboldalra érvényesek.<p>Ugyan a uBlockO hatékonyan kezeli őket, az általános kozmetikai szűrők mégis mérhetően magasabb memória és CPU használatot eredményezhetnek néhány weboldalon, főleg nagy, és régóta futóak esetében.<p>Ennek az opciónak a bekapcsolása kiküszöböli az általános kozmetikai szűrők kezeléséből a weboldalakon adódó memória és CPU használat többletet, továbbá csökkenti a uBlockO által foglalt memóriát is.<p>Ajánlott bekapcsolni ezt az opciót a gyengébb eszközökön.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
   },
   "3pListsOfBlockedHostsHeader": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "A jelenlegi beállítások felülíródnak a mentett adatokkal (mentési idő: {{time}}), utána a uBlock₀ újraindul.\n\nFelülírja a jelenlegi beállításokat a biztonsági mentéssel?",
+    "message": "A jelenlegi beállítások felülíródnak a mentett adatokkal (mentési idő: {{time}}), utána a uBlockO újraindul.\n\nFelülírja a jelenlegi beállításokat a biztonsági mentéssel?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Az összes beállítás törlődik, utána a uBlock₀ újraindul.\n\nÁllítsa vissza a gyári beállításokat?",
+    "message": "Az összes beállítás törlődik, utána a uBlockO újraindul.\n\nÁllítsa vissza a gyári beállításokat?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: Hozzáadja a következő URL-t a saját szűrő listákhoz?\n\nNév: \"{{title}}\"\nURL: \"{{url}}\"",
+    "message": "uBlockO: Hozzáadja a következő URL-t a saját szűrő listákhoz?\n\nNév: \"{{title}}\"\nURL: \"{{url}}\"",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "kikapcsolva",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin nem engedte a következő lap betöltését:",

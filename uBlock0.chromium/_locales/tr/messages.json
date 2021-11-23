@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Kontrol paneli",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Kontrol paneli",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Uyarı! Kaydedilmemiş değişiklikleriniz var",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Günlükçü",
+    "message": "uBlockO — Günlükçü",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Kaynak görüntüleyici",
+    "message": "uBlockO — Kaynak görüntüleyici",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Tıklama: uBlock₀'i bu site için devre dışı bırak/etkinleştir.\n\nCtrl+tıklama: uBlock₀'i yalnızca bu sayfada devre dışı bırak.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Tıklama: uBlockO'i bu site için devre dışı bırak/etkinleştir.\n\nCtrl+tıklama: uBlockO'i yalnızca bu sayfada devre dışı bırak.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "uBlock₀'i bu sitede devre dışı bırakmak için tıklayın.\n\nuBlock₀'i yalnızca bu sayfada devre dışı bırakmak için Ctrl+tıklayın.",
+    "message": "uBlockO'i bu sitede devre dışı bırakmak için tıklayın.\n\nuBlockO'i yalnızca bu sayfada devre dışı bırakmak için Ctrl+tıklayın.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "uBlock₀'i bu sitede etkinleştirmek için tıklayın.",
+    "message": "uBlockO'i bu sitede etkinleştirmek için tıklayın.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Tüm ayarlarınız {{time}} tarihinde yedeklenmiş veriler kullanarak değiştirilecek ve uBlock₀ yeniden başlayacak. \n\nYedeklenmiş verileriniz kullanılarak var olan tüm ayarlarınız değiştirilsin mi?",
+    "message": "Tüm ayarlarınız {{time}} tarihinde yedeklenmiş veriler kullanarak değiştirilecek ve uBlockO yeniden başlayacak. \n\nYedeklenmiş verileriniz kullanılarak var olan tüm ayarlarınız değiştirilsin mi?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Tüm ayarlarınızı silinecek, ve uBlock₀ yeniden başlayacak.\n\nuBlock₀ fabrika ayarlarına sıfırlansın mı?",
+    "message": "Tüm ayarlarınızı silinecek, ve uBlockO yeniden başlayacak.\n\nuBlockO fabrika ayarlarına sıfırlansın mı?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "kapalı",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin aşağıdaki sayfanın yüklenmesini engelledi:",

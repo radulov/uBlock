@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock₀",
+    "message": "uBlockO",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Dashboerd",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Dashboerd",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Warskôging! Net bewarre wizigingen",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Lochboek",
+    "message": "uBlockO — Lochboek",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ – Middelenviewer",
+    "message": "uBlockO – Middelenviewer",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Klikke: uBlock₀ foar dizze website yn-/útskeakelje.\n\nCtrl+klikke: uBlock₀ inkeld foar dizze side útskeakelje.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Klikke: uBlockO foar dizze website yn-/útskeakelje.\n\nCtrl+klikke: uBlockO inkeld foar dizze side útskeakelje.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Klik om uBlock₀ foar dizze website út te skeakeljen.\n\nCtrl+klik om uBlock₀ inkeld foar dizze side út te skeakeljen.",
+    "message": "Klik om uBlockO foar dizze website út te skeakeljen.\n\nCtrl+klik om uBlockO inkeld foar dizze side út te skeakeljen.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Klik om uBlock₀ foar dizze website yn te skeakeljen.",
+    "message": "Klik om uBlockO foar dizze website yn te skeakeljen.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Al jo ynstellingen sille oerskreaun wurde mei de reservekopygegevens fan {{time}} en uBlock₀ sil werstart wurde.\n\nBinne jo wis dat jo alle besteande ynstellingen oerskriuwe wolle mei de reservekopygegevens?",
+    "message": "Al jo ynstellingen sille oerskreaun wurde mei de reservekopygegevens fan {{time}} en uBlockO sil werstart wurde.\n\nBinne jo wis dat jo alle besteande ynstellingen oerskriuwe wolle mei de reservekopygegevens?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Al jo ynstellingen sille fuortsmiten wurde, wêrnei uBlock₀ werstart.\n\nYnstellingen dochs werstelle nei de standertwearden?",
+    "message": "Al jo ynstellingen sille fuortsmiten wurde, wêrnei uBlockO werstart.\n\nYnstellingen dochs werstelle nei de standertwearden?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: De folgjende URL oan jo oanpaste filterlisten tafoegje?\n\nTitel: \"{{title}}\"\nURL: {{url}}",
+    "message": "uBlockO: De folgjende URL oan jo oanpaste filterlisten tafoegje?\n\nTitel: \"{{title}}\"\nURL: {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "útskeakele",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin hat it laden fan de folgjende side opkeard:",

@@ -1,6 +1,6 @@
 {
   "extName": {
-    "message": "uBlock₀",
+    "message": "uBlockO",
     "description": "extension name."
   },
   "extShortDesc": {
@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — 控制面板",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — 控制面板",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "警告！您有未保存的更改",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — 记录器",
+    "message": "uBlockO — 记录器",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — 资源查看器",
+    "message": "uBlockO — 资源查看器",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "单击：对此网站禁用/启用 uBlock₀。\n\nCtrl + 单击：仅对此页面禁用 uBlock₀。",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "单击：对此网站禁用/启用 uBlockO。\n\nCtrl + 单击：仅对此页面禁用 uBlockO。",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "单击：对此网站禁用 uBlock₀ 。\n\nCtrl + 单击：仅在此页面上禁用 uBlock₀ 。",
+    "message": "单击：对此网站禁用 uBlockO 。\n\nCtrl + 单击：仅在此页面上禁用 uBlockO 。",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "单击：对此网站启用 uBlock₀ 。",
+    "message": "单击：对此网站启用 uBlockO 。",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -588,7 +588,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "白名单中的规则适用的页面不会被 uBlock₀ 过滤或阻挡。每行一条规则。无效的规则将被忽略。",
+    "message": "白名单中的规则适用的页面不会被 uBlockO 过滤或阻挡。每行一条规则。无效的规则将被忽略。",
     "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "您的所有设置将被备份于 {{time}} 的数据覆盖，并且 uBlock₀ 将重新启动。\n确定要用备份的数据覆盖全部现有设置吗？",
+    "message": "您的所有设置将被备份于 {{time}} 的数据覆盖，并且 uBlockO 将重新启动。\n确定要用备份的数据覆盖全部现有设置吗？",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "您的设置将被清除，uBlock₀ 将重新启动。\n\n确定将 uBlock₀ 重置到初始状态？",
+    "message": "您的设置将被清除，uBlockO 将重新启动。\n\n确定将 uBlockO 重置到初始状态？",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀：添加下列 URL 到您的自定义规则列表吗？\n\n标题： “{{title}}”\nURL： {{url}}",
+    "message": "uBlockO：添加下列 URL 到您的自定义规则列表吗？\n\n标题： “{{title}}”\nURL： {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,10 +1089,10 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "关",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
-    "message": "uBlock₀ 阻止了下列页面加载：",
+    "message": "uBlockO 阻止了下列页面加载：",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

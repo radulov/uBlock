@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ – Dashboard",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO – Dashboard",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Waarschuwing! Niet-opgeslagen wijzigingen",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ – Logger",
+    "message": "uBlockO – Logger",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ – Middelenviewer",
+    "message": "uBlockO – Middelenviewer",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Klikken: uBlock₀ voor deze website in- of uitschakelen.\n\nCtrl+klikken: uBlock₀ alleen voor deze pagina uitschakelen.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Klikken: uBlockO voor deze website in- of uitschakelen.\n\nCtrl+klikken: uBlockO alleen voor deze pagina uitschakelen.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Klik om uBlock₀ voor deze website uit te schakelen.\n\nCtrl+klik om uBlock₀ alleen op deze pagina uit te schakelen.",
+    "message": "Klik om uBlockO voor deze website uit te schakelen.\n\nCtrl+klik om uBlockO alleen op deze pagina uit te schakelen.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Klik om uBlock₀ voor deze website in te schakelen.",
+    "message": "Klik om uBlockO voor deze website in te schakelen.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Al uw instellingen zullen met back-upgegevens van {{time}} worden overschreven, en uBlock₀ zal worden herstart.\n\nWilt u alle bestaande instellingen met back-upgegevens overschrijven?",
+    "message": "Al uw instellingen zullen met back-upgegevens van {{time}} worden overschreven, en uBlockO zal worden herstart.\n\nWilt u alle bestaande instellingen met back-upgegevens overschrijven?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Al uw instellingen zullen worden verwijderd, waarna uBlock₀ wordt herstart.\n\nStandaardinstellingen van uBlock₀ terugzetten?",
+    "message": "Al uw instellingen zullen worden verwijderd, waarna uBlockO wordt herstart.\n\nStandaardinstellingen van uBlockO terugzetten?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1089,10 +1089,10 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "uitgeschakeld",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
-    "message": "uBlock₀ heeft het laden van de volgende pagina voorkomen:",
+    "message": "uBlockO heeft het laden van de volgende pagina voorkomen:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

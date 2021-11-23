@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — სამართავი დაფა",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — სამართავი დაფა",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "გაფრთხილება! ცვლილებები არ შენახულა",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — აღმრიცხავი",
+    "message": "uBlockO — აღმრიცხავი",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — რესურსები",
+    "message": "uBlockO — რესურსები",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -69,14 +69,14 @@
   },
   "popupPowerSwitchInfo": {
     "message": "დაწკაპუნება: ამ საიტისთვის uBlock-ის ჩართვა/გამორთვა.\n\nCtrl+დაწკაპუნება: uBlock-ის მხოლოდ ამ გვერდზე გამორთვა.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "დააწკაპეთ uBlock₀-ის გამოსართავად ამ საიტზე.\n\nCtrl+დაწკაპებით uBlock₀ მხოლოდ ამ გვერდზე გამოირთვება.",
+    "message": "დააწკაპეთ uBlockO-ის გამოსართავად ამ საიტზე.\n\nCtrl+დაწკაპებით uBlockO მხოლოდ ამ გვერდზე გამოირთვება.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "დააწკაპეთ uBlock₀-ის ჩასართავად ამ საიტზე.",
+    "message": "დააწკაპეთ uBlockO-ის ჩასართავად ამ საიტზე.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "თქვენს ყველა პარამეტრს გადაეწერება {{time}} დროინდელი დამარქაფებული მონაცემები და uBlock₀ გაეშვება ხელახლა.\n\nნამდვილად გსურთ არსებული პარამეტრების დამარქაფებული მონაცემებით ჩანაცვლება?",
+    "message": "თქვენს ყველა პარამეტრს გადაეწერება {{time}} დროინდელი დამარქაფებული მონაცემები და uBlockO გაეშვება ხელახლა.\n\nნამდვილად გსურთ არსებული პარამეტრების დამარქაფებული მონაცემებით ჩანაცვლება?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "თქვენ მიერ მითითებული ყველა პარამეტრი წაიშლება და uBlock₀ გაეშვება ხელახლა.\n\nნამდვილად გსურთ uBlock₀-ის ნაგულისხმევ პარამეტრებზე დაბრუნება?",
+    "message": "თქვენ მიერ მითითებული ყველა პარამეტრი წაიშლება და uBlockO გაეშვება ხელახლა.\n\nნამდვილად გსურთ uBlockO-ის ნაგულისხმევ პარამეტრებზე დაბრუნება?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: გსურთ შემდეგი URL ბმულის საკუთარ ფილტრის წესებში ჩამატება?\n\nდასახელება: „{{title}}“\nURL: {{url}}",
+    "message": "uBlockO: გსურთ შემდეგი URL ბმულის საკუთარ ფილტრის წესებში ჩამატება?\n\nდასახელება: „{{title}}“\nURL: {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "გამორთული",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin-მა შეზღუდა მოცემული გვერდის ჩატვირთვა:",

@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Dashboard",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Dashboard",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Attenzione! Ci sono delle modifiche non ancora salvate",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Cronologia richieste di rete",
+    "message": "uBlockO — Cronologia richieste di rete",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Visualizzatore di risorse",
+    "message": "uBlockO — Visualizzatore di risorse",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Click: disabilita/abilita uBlock₀ per questo sito.\n\nCtrl+click: disabilita uBlock₀ solo per questa pagina.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Click: disabilita/abilita uBlockO per questo sito.\n\nCtrl+click: disabilita uBlockO solo per questa pagina.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Click per disabilitare uBlock₀ per questo sito.\n\nCtrl+click per disabilitare uBlock₀ solo su questa pagina.",
+    "message": "Click per disabilitare uBlockO per questo sito.\n\nCtrl+click per disabilitare uBlockO solo su questa pagina.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Clicca per attivare uBlock₀ in questo sito.",
+    "message": "Clicca per attivare uBlockO in questo sito.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -432,7 +432,7 @@
     "description": "This will cause uBO to ignore all generic cosmetic filters."
   },
   "3pIgnoreGenericCosmeticFiltersInfo": {
-    "message": "<p>I filtri cosmetici generici sono i filtri cosmetici intesi per essere applicati a tutti i siti Web.<p>Benché questi siano gestiti in modo efficiente da uBlock₀, i filtri cosmetici generici potrebbero contribuire a un carico elevato in termini di memoria e CPU su alcune pagine Web, in particolare quelle di notevoli dimensioni e a lunga scadenza.<p>L'attivazione di quest'opzione eliminerà il carico elevato in termini di memoria e CPU aggiunto alle pagine Web in conseguenza della gestione dei filtri cosmetici generici, e inoltre ridurrà l'impatto sulla memoria di uBlock₀ stesso.<p>È raccomandato abilitare quest'opzione sui dispositivi meno potenti.",
+    "message": "<p>I filtri cosmetici generici sono i filtri cosmetici intesi per essere applicati a tutti i siti Web.<p>Benché questi siano gestiti in modo efficiente da uBlockO, i filtri cosmetici generici potrebbero contribuire a un carico elevato in termini di memoria e CPU su alcune pagine Web, in particolare quelle di notevoli dimensioni e a lunga scadenza.<p>L'attivazione di quest'opzione eliminerà il carico elevato in termini di memoria e CPU aggiunto alle pagine Web in conseguenza della gestione dei filtri cosmetici generici, e inoltre ridurrà l'impatto sulla memoria di uBlockO stesso.<p>È raccomandato abilitare quest'opzione sui dispositivi meno potenti.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
   },
   "3pListsOfBlockedHostsHeader": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Verranno cancellate tutte le impostazioni, e uBlock₀ sarà riavviato.\n\nResettare uBlock alle impostazioni di fabbrica?",
+    "message": "Verranno cancellate tutte le impostazioni, e uBlockO sarà riavviato.\n\nResettare uBlock alle impostazioni di fabbrica?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: Aggiungere il seguente URL alla tua lista dei filtri personalizzata?\n\nTitolo: \"{{title}}\"\nURL: {{url}}",
+    "message": "uBlockO: Aggiungere il seguente URL alla tua lista dei filtri personalizzata?\n\nTitolo: \"{{title}}\"\nURL: {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,10 +1089,10 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "disattivato",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
-    "message": "uBlock₀ ha impedito alla seguente pagina di caricarsi:",
+    "message": "uBlockO ha impedito alla seguente pagina di caricarsi:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {

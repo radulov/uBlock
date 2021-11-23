@@ -9,7 +9,7 @@
   },
   "dashboardName": {
     "message": "യുബ്ലോക്ക്ഒ - ഡാഷ്ബോര്‍ഡ്",
-    "description": "English: uBlock₀ — Dashboard"
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "മുന്നറിയിപ്പ്! നിങ്ങൾക്ക് സംരക്ഷിക്കാത്ത മാറ്റങ്ങളുണ്ട്",
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ - അസറ്റ് വ്യൂവർ",
+    "message": "uBlockO - അസറ്റ് വ്യൂവർ",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -69,14 +69,14 @@
   },
   "popupPowerSwitchInfo": {
     "message": "ക്ലിക്ക്: ഈ സൈറ്റില്‍ യുബ്ലോക്ക്ഒ ഡിസേബിള്‍/എനെബിള്‍ ചെയ്യാന്‍.\nCtrl + ക്ലിക്ക്: ഈ പേജില്‍ യുബ്ലോക്ക്ഒ ഡിസേബിള്‍/എനെബിള്‍ ചെയ്യാന്‍.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "ഈ സൈറ്റിനായി uBlock₀ പ്രവർത്തനരഹിതമാക്കാൻ ക്ലിക്കുചെയ്യുക.\n\nഈ പേജിൽ മാത്രം uBlock₀ പ്രവർത്തനരഹിതമാക്കാൻ Ctrl + ക്ലിക്കുചെയ്യുക.",
+    "message": "ഈ സൈറ്റിനായി uBlockO പ്രവർത്തനരഹിതമാക്കാൻ ക്ലിക്കുചെയ്യുക.\n\nഈ പേജിൽ മാത്രം uBlockO പ്രവർത്തനരഹിതമാക്കാൻ Ctrl + ക്ലിക്കുചെയ്യുക.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "ഈ സൈറ്റിനായി uBlock₀ പ്രവർത്തനക്ഷമമാക്കാൻ ക്ലിക്കുചെയ്യുക.",
+    "message": "ഈ സൈറ്റിനായി uBlockO പ്രവർത്തനക്ഷമമാക്കാൻ ക്ലിക്കുചെയ്യുക.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "ഓഫ്",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "താഴെ പറയുന്ന പേജ് ലോഡ് ചെയ്യുന്നത് യുബ്ലോക്ക് ഒറിജിന്‍ തടഞ്ഞിരിക്കുന്നു:",

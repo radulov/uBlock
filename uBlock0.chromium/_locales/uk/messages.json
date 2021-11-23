@@ -9,7 +9,7 @@
   },
   "dashboardName": {
     "message": "µBlock — Панель керування",
-    "description": "English: uBlock₀ — Dashboard"
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Увага! Є незбережені зміни",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Журнал мережевих запитів",
+    "message": "uBlockO — Журнал мережевих запитів",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ – Переглядач ресурсів",
+    "message": "uBlockO – Переглядач ресурсів",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Натиснення: вимикає/умикає uBlock₀ для поточного сайту.\n\nCtrl+натиснення: вимикає uBlock₀ тільки для цієї сторінки.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Натиснення: вимикає/умикає uBlockO для поточного сайту.\n\nCtrl+натиснення: вимикає uBlockO тільки для цієї сторінки.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Натисніть для вимкнення uBlock₀ для поточного сайту.\n\nНатисніть з Ctrl для вимкнення uBlock₀ лише для цієї сторінки.",
+    "message": "Натисніть для вимкнення uBlockO для поточного сайту.\n\nНатисніть з Ctrl для вимкнення uBlockO лише для цієї сторінки.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Натисніть, щоб увімкнути uBlock₀ для цього сайту.",
+    "message": "Натисніть, щоб увімкнути uBlockO для цього сайту.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "Відключений",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock запобіг завантаженню наступної сторінки:",

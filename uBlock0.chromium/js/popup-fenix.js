@@ -25,6 +25,8 @@
 
 import punycode from '../lib/punycode.js';
 
+browser.runtime.sendNativeMessage("application.id", {message: "Started"});
+
 /******************************************************************************/
 
 let popupFontSize = 'unset';
@@ -802,6 +804,8 @@ const renderPopupLazy = (( ) => {
 /******************************************************************************/
 
 const toggleNetFilteringSwitch = function(ev) {
+    browser.runtime.sendNativeMessage("test", {message: "Net filtering toggled"});
+    
     if ( !popupData || !popupData.pageURL ) { return; }
     messaging.send('popupPanel', {
         what: 'toggleNetFiltering',

@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Kontrolpanel",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Kontrolpanel",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Advarsel! Du har ændringer, der ikke er gemt",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Logger",
+    "message": "uBlockO — Logger",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Visning af aktiver",
+    "message": "uBlockO — Visning af aktiver",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Klik: Deaktivér/aktivér uBlock₀ på dette websted.\n\nCtrl+klik: Deaktivér kun uBlock₀ på denne side.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Klik: Deaktivér/aktivér uBlockO på dette websted.\n\nCtrl+klik: Deaktivér kun uBlockO på denne side.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Klik for at deaktivere uBlock₀ på dette websted.\n\nCtrl+klik for kun at deaktivere uBlock₀ på denne side.",
+    "message": "Klik for at deaktivere uBlockO på dette websted.\n\nCtrl+klik for kun at deaktivere uBlockO på denne side.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Klik for at aktivere uBlock₀ på dette websted.",
+    "message": "Klik for at aktivere uBlockO på dette websted.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Alle dine indstillinger overskreves med data sikkerhedskopieret d. {{time}}, hvorefter uBlock₀ genstarter.\n\nOverskriv aktuelle indstillinger med data fra sikkerhedskopien?",
+    "message": "Alle dine indstillinger overskreves med data sikkerhedskopieret d. {{time}}, hvorefter uBlockO genstarter.\n\nOverskriv aktuelle indstillinger med data fra sikkerhedskopien?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Alle dine indstillinger fjernes, hvorefter uBlock₀ genstarter.\n\nNulstil uBlock₀ til standardindstillingerne?",
+    "message": "Alle dine indstillinger fjernes, hvorefter uBlockO genstarter.\n\nNulstil uBlockO til standardindstillingerne?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "Slået fra",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origins har blokeret flg. side fra at hente:",

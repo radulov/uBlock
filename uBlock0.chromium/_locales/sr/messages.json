@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Контролна табла",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Контролна табла",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Упозорење! Имате промене које нису сачуване",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Евиденција",
+    "message": "uBlockO — Евиденција",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — Прегледач ресурса",
+    "message": "uBlockO — Прегледач ресурса",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -69,7 +69,7 @@
   },
   "popupPowerSwitchInfo": {
     "message": "Клик: онемогући/омогући µBlock₀ за овај сајт.\n\nCtrl+клик: онемогући/омогући µBlock₀ само за ову страницу.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
     "message": "Кликните да бисте онемогућили µBlock₀ за овај сајт.\n\nCtrl+клик да бисте онемогућили µBlock₀ само на овој страници.",
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Сва ваша подешавања ће бити прегажена резервном копијом података сачуваним {{time}} и uBlock₀ ће се поново покренути.\n\nПрегазити сва постојећа подешавања резервном копијом података?",
+    "message": "Сва ваша подешавања ће бити прегажена резервном копијом података сачуваним {{time}} и uBlockO ће се поново покренути.\n\nПрегазити сва постојећа подешавања резервном копијом података?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1089,7 +1089,7 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "искључен",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
     "message": "uBlock Origin је спречио учитавање следеће странице:",

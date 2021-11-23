@@ -8,8 +8,8 @@
     "description": "this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName": {
-    "message": "uBlock₀ — Nadzorna plošča",
-    "description": "English: uBlock₀ — Dashboard"
+    "message": "uBlockO — Nadzorna plošča",
+    "description": "English: uBlockO — Dashboard"
   },
   "dashboardUnsavedWarning": {
     "message": "Pozor! Spremembe niso shranjene",
@@ -48,7 +48,7 @@
     "description": "appears as tab name in dashboard"
   },
   "statsPageName": {
-    "message": "uBlock₀ — Dnevnik omrežnih zahtev",
+    "message": "uBlockO — Dnevnik omrežnih zahtev",
     "description": "Title for the logger window"
   },
   "aboutPageName": {
@@ -60,7 +60,7 @@
     "description": "appears as tab name in dashboard"
   },
   "assetViewerPageName": {
-    "message": "uBlock₀ — pregled sredstev",
+    "message": "uBlockO — pregled sredstev",
     "description": "Title for the asset viewer page"
   },
   "advancedSettingsPageName": {
@@ -68,15 +68,15 @@
     "description": "Title for the advanced settings page"
   },
   "popupPowerSwitchInfo": {
-    "message": "Klik: onemogoči/omogoči uBlock₀ za to stran.\n\nCtrl+klik: onemogoči uBlock₀ samo na tej strani.",
-    "description": "English: Click: disable/enable uBlock₀ for this site.\n\nCtrl+click: disable uBlock₀ only on this page."
+    "message": "Klik: onemogoči/omogoči uBlockO za to stran.\n\nCtrl+klik: onemogoči uBlockO samo na tej strani.",
+    "description": "English: Click: disable/enable uBlockO for this site.\n\nCtrl+click: disable uBlockO only on this page."
   },
   "popupPowerSwitchInfo1": {
-    "message": "Kliknite, da onemogočite uBlock₀ za to stran.\n\nPritisnite Ctrl in kliknite, da onemogočite uBlock₀ samo na tej strani.",
+    "message": "Kliknite, da onemogočite uBlockO za to stran.\n\nPritisnite Ctrl in kliknite, da onemogočite uBlockO samo na tej strani.",
     "description": "Message to be read by screen readers"
   },
   "popupPowerSwitchInfo2": {
-    "message": "Kliknite, da omogočite uBlock₀ za to stran.",
+    "message": "Kliknite, da omogočite uBlockO za to stran.",
     "description": "Message to be read by screen readers"
   },
   "popupBlockedRequestPrompt": {
@@ -424,7 +424,7 @@
     "description": "English: Parse and enforce Adblock+ element hiding filters."
   },
   "3pParseAllABPHideFiltersInfo": {
-    "message": "<p>Ta opcija omogoči razčlenjevanje in uveljavljanje <a href=\"https://adblockplus.org/en/faq_internal#elemhide\"> Adblock Plus kompatibilnih filtrov za &ldquo;skrivanje elementov&rdquo;</a> Le-ti filtri so v bistvu kozmetični in služijo skrivanju elementov na spletnih straneh, ki jih lahko obravnavamo kot \"vizualna nadloga\", in taki, ki se jih preko filtrov zahtev omrežja ne da blokirati.</p>\n<p>Vklop te funkcije poveča spominski odtis uBlock₀.</p>",
+    "message": "<p>Ta opcija omogoči razčlenjevanje in uveljavljanje <a href=\"https://adblockplus.org/en/faq_internal#elemhide\"> Adblock Plus kompatibilnih filtrov za &ldquo;skrivanje elementov&rdquo;</a> Le-ti filtri so v bistvu kozmetični in služijo skrivanju elementov na spletnih straneh, ki jih lahko obravnavamo kot \"vizualna nadloga\", in taki, ki se jih preko filtrov zahtev omrežja ne da blokirati.</p>\n<p>Vklop te funkcije poveča spominski odtis uBlockO.</p>",
     "description": "Describes the purpose of the 'Parse and enforce cosmetic filters' feature."
   },
   "3pIgnoreGenericCosmeticFilters": {
@@ -432,7 +432,7 @@
     "description": "This will cause uBO to ignore all generic cosmetic filters."
   },
   "3pIgnoreGenericCosmeticFiltersInfo": {
-    "message": "<p>Generični vizualni filtri so vizualni filtri, ki naj bi bili uporabljeni na vseh spletnih straneh.<p>Kljub temu, da je njihova uporaba v uBlock₀ učinkovita, generični vizualni filtri lahko, na nekaterih spletnih straneh (še posebno na velikih in starih), pripomorejo k opazni dodatni porabi pomnilnika in uporabi CPE.<p>Omogočitev te funkcije bo zmanjšala porabo pomnilnika in uporabo CPE, ki nastane kot rezultat dodajanja generičnih vizualnih filtrov, in tudi zmanjšala porabo pomnilnika dodatka uBlock₀.<p>Priporočeno je, da omogočite to možnost na manj zmogljivih napravah.",
+    "message": "<p>Generični vizualni filtri so vizualni filtri, ki naj bi bili uporabljeni na vseh spletnih straneh.<p>Kljub temu, da je njihova uporaba v uBlockO učinkovita, generični vizualni filtri lahko, na nekaterih spletnih straneh (še posebno na velikih in starih), pripomorejo k opazni dodatni porabi pomnilnika in uporabi CPE.<p>Omogočitev te funkcije bo zmanjšala porabo pomnilnika in uporabo CPE, ki nastane kot rezultat dodajanja generičnih vizualnih filtrov, in tudi zmanjšala porabo pomnilnika dodatka uBlockO.<p>Priporočeno je, da omogočite to možnost na manj zmogljivih napravah.",
     "description": "Describes the purpose of the 'Ignore generic cosmetic filters' feature."
   },
   "3pListsOfBlockedHostsHeader": {
@@ -588,7 +588,7 @@
     "description": "English: a sort option for list of rules."
   },
   "whitelistPrompt": {
-    "message": "Vaš seznam gostiteljskih naslovov, za katere želite, da je uBlock₀ izklopljen. En vnos na vrstico. Neveljavna gostiteljska imena bodo brez opozoril ignorirana.",
+    "message": "Vaš seznam gostiteljskih naslovov, za katere želite, da je uBlockO izklopljen. En vnos na vrstico. Neveljavna gostiteljska imena bodo brez opozoril ignorirana.",
     "description": "The name of the trusted sites pane."
   },
   "whitelistImport": {
@@ -1032,7 +1032,7 @@
     "description": "English: Reset to default settings..."
   },
   "aboutRestoreDataConfirm": {
-    "message": "Vse vaše nastavitve bodo prepisane s podatki, ki so bili varnostno shranjeni {{time}}. uBlock₀ se bo ponovno zagnal.\n\nPrepišem vse obstoječe nastavitve z varnostno shranjenimi podatki?",
+    "message": "Vse vaše nastavitve bodo prepisane s podatki, ki so bili varnostno shranjeni {{time}}. uBlockO se bo ponovno zagnal.\n\nPrepišem vse obstoječe nastavitve z varnostno shranjenimi podatki?",
     "description": "Message asking user to confirm restore"
   },
   "aboutRestoreDataError": {
@@ -1040,7 +1040,7 @@
     "description": "Message to display when an error occurred during restore"
   },
   "aboutResetDataConfirm": {
-    "message": "Vse vaše spremembe bodo izbrisane, uBlock₀ pa se bo ponovno zagnal.\n\nPonastavim uBlock₀ na tovarniške nastavitve?",
+    "message": "Vse vaše spremembe bodo izbrisane, uBlockO pa se bo ponovno zagnal.\n\nPonastavim uBlockO na tovarniške nastavitve?",
     "description": "Message asking user to confirm reset"
   },
   "errorCantConnectTo": {
@@ -1048,7 +1048,7 @@
     "description": "English: Network error: {{msg}}"
   },
   "subscriberConfirm": {
-    "message": "uBlock₀: Dodam sledeči URL na listo lastnih filtrov?\n\nNaslov: \"{{title}}\"\nURL: {{url}}",
+    "message": "uBlockO: Dodam sledeči URL na listo lastnih filtrov?\n\nNaslov: \"{{title}}\"\nURL: {{url}}",
     "description": "No longer used"
   },
   "subscribeButton": {
@@ -1089,10 +1089,10 @@
   },
   "fennecMenuItemBlockingOff": {
     "message": "izklop",
-    "description": "Firefox-specific: appears as 'uBlock₀ (off)'"
+    "description": "Firefox-specific: appears as 'uBlockO (off)'"
   },
   "docblockedPrompt1": {
-    "message": "uBlock₀ je preprečil nalaganje naslednje strani:",
+    "message": "uBlockO je preprečil nalaganje naslednje strani:",
     "description": "Used in the strict-blocking page"
   },
   "docblockedPrompt2": {
