@@ -10,42 +10,22 @@ import os.log
 
 let SFExtensionMessageKey = "message"
 
-class TestService: NSObject, TestServiceProtocol {
-    func publishToAllClients(string: String) {
-        
-    }
+class SafariWebExtensionHandler: NSObject, NSExtensionRequestHandling, TestClientProtocol {
     
-    func uppercase(string: String, reply: (String) -> ()) {
-        reply(string.uppercased())
-    }
-}
-
-class ServiceDelegate: NSObject, NSXPCListenerDelegate {
-    func listener(_ listener: NSXPCListener, shouldAcceptNewConnection newConnection: NSXPCConnection) -> Bool {
-        newConnection.exportedInterface = NSXPCInterface(with: TestServiceProtocol.self)//[NSXPCInterface interfaceWithProtocol:@protocol(TestServiceProtocol)];
-//        TestService *exportedObject = [TestService new];
-        newConnection.exportedObject = TestService()
-        newConnection.resume()
-        
-//        [newConnection resume];
-        return true
-    }
-}
-
-class SafariWebExtensionHandler: NSObject, NSExtensionRequestHandling {
+    private var connection: NSXPCConnection?
     
-    private static var connection: NSXPCConnection?
-    
-    private static func initializeConnection() {
+    private func initializeConnection() {
         let connection = NSXPCConnection(serviceName: "com.yourCompany.uBlock-Origin.Extension.service")
         connection.remoteObjectInterface = NSXPCInterface(with: TestServiceProtocol.self)
         connection.invalidationHandler = {
-            SafariWebExtensionHandler.connection = nil
+            self.connection = nil
             NSLog("kuBlock: Connection invalidated")
         }
+        connection.exportedInterface = NSXPCInterface(with: TestClientProtocol.self)
+        connection.exportedObject = self
         connection.resume()
         
-        SafariWebExtensionHandler.connection = connection
+        self.connection = connection
     }
     
     public static var viewController: ExtensionPopupViewController {
@@ -57,14 +37,17 @@ class SafariWebExtensionHandler: NSObject, NSExtensionRequestHandling {
     func beginRequest(with context: NSExtensionContext) {
         let item = context.inputItems[0] as! NSExtensionItem
         let message = item.userInfo?[SFExtensionMessageKey]
-        NSLog("kuBlock: Received message from browser: " + (message as! [String: String]).values.first!)
-        if (SafariWebExtensionHandler.connection == nil) {
-            SafariWebExtensionHandler.initializeConnection()
+        if let messageDict = message as? [String: String],
+           let stringMessage = messageDict[SFExtensionMessageKey] {
+            NSLog("kuBlock: Received message from browser: " + stringMessage)
+            if (self.connection == nil) {
+                self.initializeConnection()
+            }
+            
+            (self.connection?.remoteObjectProxyWithErrorHandler({ error in
+                NSLog( "kuBlock: Connection error " + error.localizedDescription)
+            }) as? TestServiceProtocol)?.publishToAllClients(string: stringMessage)
         }
-        
-        (SafariWebExtensionHandler.connection?.synchronousRemoteObjectProxyWithErrorHandler({ error in
-            NSLog( "kuBlock: Connection error " + error.localizedDescription)
-        }) as? TestServiceProtocol)?.publishToAllClients(string: (message as! [String: String]).values.first!)
 
         let response = NSExtensionItem()
         response.userInfo = [ SFExtensionMessageKey: [ "Response to": message ] ]
@@ -72,10 +55,8 @@ class SafariWebExtensionHandler: NSObject, NSExtensionRequestHandling {
 //        context.completeRequest(returningItems: [response], completionHandler: nil)
         context.completeRequest(returningItems: nil, completionHandler: nil)
     }
+    
+    func receiveMessage(string: String) {
+        NSLog("kuBlock: extension received message from app: " + string)
+    }
 }
-
-//extension SafariWebExtensionHandler: SFSafariExtensionHandling {
-//    func popoverViewController() -> SFSafariExtensionViewController {
-//        SafariWebExtensionHandler.viewController
-//    }
-//}

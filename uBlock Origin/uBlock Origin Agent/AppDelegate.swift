@@ -8,7 +8,7 @@
 import Cocoa
 
 @objc
-class ConnectionDelegate: NSObject, NSXPCListenerDelegate, TestClientProtocol, TestServiceProtocol {
+class ConnectionDelegate: NSObject, NSXPCListenerDelegate, TestServiceProtocol {
     var connections = [NSXPCConnection]()
     
     func listener(_ listener: NSXPCListener, shouldAcceptNewConnection newConnection: NSXPCConnection) -> Bool {
@@ -38,10 +38,6 @@ class ConnectionDelegate: NSObject, NSXPCListenerDelegate, TestClientProtocol, T
             }) as? TestClientProtocol)?.receiveMessage(string: string)
         }
     }
-    
-    func receiveMessage(string: String) {
-        
-    }
 }
 
 @main
@@ -52,12 +48,16 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     var listener: NSXPCListener?
 
     func applicationDidFinishLaunching(_ aNotification: Notification) {
-        NSLog("kuBlock: agent started connection with " + Bundle.main.bundleIdentifier!)
-        listener = NSXPCListener(machServiceName: Bundle.main.bundleIdentifier!)
-//        listener
-        listener?.delegate = connectionDelegate
+        DispatchQueue.global().async {
+            NSLog("kuBlock: agent started connection with " + Bundle.main.bundleIdentifier!)
+            let listener = NSXPCListener(machServiceName: Bundle.main.bundleIdentifier!)
+            listener.delegate = self.connectionDelegate
+            
+            listener.resume()
+            
+            self.listener = listener
+        }
         
-        listener?.resume()
     }
 
     func applicationWillTerminate(_ aNotification: Notification) {

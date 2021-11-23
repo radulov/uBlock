@@ -9,7 +9,7 @@ import Cocoa
 
 class ExportedObject: NSObject, TestClientProtocol {
     func receiveMessage(string: String) {
-        print("message from extension: " + string)
+        NSLog("kuBlock: App received message: " + string)
     }
 }
 
@@ -22,14 +22,14 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     func applicationDidFinishLaunching(_ notification: Notification) {
         AgentLoader.loadAgent()
         
-        DispatchQueue.global().asyncAfter(deadline: .now() + 5.0) {
+        DispatchQueue.global().asyncAfter(deadline: .now() + 2.0) {
             self.testConnection();
         }
     }
     
     func testConnection() {
         
-        connectionToService = NSXPCConnection(serviceName: AgentLoader.bundleIdentifier!)
+        connectionToService = NSXPCConnection(machServiceName: AgentLoader.bundleIdentifier!)
 
         connectionToService?.remoteObjectInterface = NSXPCInterface(with: TestServiceProtocol.self)
 
@@ -41,9 +41,11 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         }
         connectionToService?.resume()
         
-//        (connectionToService?.remoteObjectProxyWithErrorHandler({ error in
-//            print(error)
-//        }) as? TestServiceProtocol)?.publishToAllClients(string: "HUI")
+        DispatchQueue.global().asyncAfter(deadline: .now() + 5.0) {
+            (self.connectionToService?.remoteObjectProxyWithErrorHandler({ error in
+                print(error)
+            }) as? TestServiceProtocol)?.publishToAllClients(string: "Test")
+        }
 
     }
 

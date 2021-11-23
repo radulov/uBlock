@@ -20,7 +20,7 @@
 
 - (void)connect {
     
-    NSXPCConnection *connectionToService = [[NSXPCConnection alloc] initWithServiceName:@"com.yourCompany.uBlock-Origin.Agent"];
+    NSXPCConnection *connectionToService = [[NSXPCConnection alloc] initWithMachServiceName:@"com.yourCompany.uBlock-Origin.Agent" options:0];
     connectionToService.remoteObjectInterface = [NSXPCInterface interfaceWithProtocol:@protocol(TestServiceProtocol)];
     connectionToService.invalidationHandler = ^{
         NSLog(@"kuBlock: xpc service connection to Agent invalidated");
